@@ -1,4 +1,4 @@
-# Hi there, I'm Deepak Tiwari 👋
+# Hi there, I'm Deepak 👋
 
 ### CS Undergrad | AI/ML Enthusiast | Open Source Contributor
 
@@ -21,11 +21,30 @@ I'm a B.Tech Computer Science student currently in my 4th semester, passionate a
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tools
 
-**Languages & Frameworks:** Python, C++, Streamlit , pytorch,  
-**Core Skills:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms (DSA), Sentiment Analysis  
-**Tools:** Git, GitHub, MacOS  
+**Core Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
+
+**Libraries & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+</p>
+
+**Tools & Environment**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>  
 
 ---
 
@@ -52,5 +71,13 @@ I'm a B.Tech Computer Science student currently in my 4th semester, passionate a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+---
+
+<h3 align="center">Thanks for stopping by! ✌️</h3>
+
+<p align="center">
+  <i>Always open to discussing open-source, collaborating on interesting projects, or just having a chat about tech. Feel free to reach out!</i>
+</p>
 
 
