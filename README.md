@@ -31,21 +31,21 @@ I'm a B.Tech Computer Science student currently in my 4th semester, passionate a
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iron-prog&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=iron-prog&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iron-prog&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=iron-prog&theme=radical&hide_border=true" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iron-prog&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iron-prog&layout=compact&theme=radical&hide_border=true" width="50%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
 
 <div align="left">
-  <a href="mailto:dt915725.COM">
+  <a href="mailto:dt915725@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/deepak-tiwari-dev/">
