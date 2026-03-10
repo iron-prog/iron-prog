@@ -20,8 +20,6 @@ I'm a B.Tech Computer Science student, passionate about solving problems through
 * **[MusicBrainz Picard](https://github.com/metabrainz/picard)** Actively contributing to the MetaBrainz Foundation.
 
 
-<h3 align="center">Thanks for stopping by! ✌️</h3>
-
 <p align="center">
   <i>Always open to discussing open-source, collaborating on interesting projects, or just having a chat about tech. Feel free to reach out!</i>
 </p>
