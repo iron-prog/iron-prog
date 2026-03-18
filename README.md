@@ -17,7 +17,10 @@ I'm a B.Tech Computer Science student, passionate about solving problems through
 
 ### 💻 Contributions
 
-* **[MusicBrainz Picard](https://github.com/metabrainz/picard)** Actively contributing to the MetaBrainz Foundation.
+* **[MusicBrainz Picard](https://github.com/metabrainz/picard)**
+* **(https://github.com/metabrainz/picard-docs)**
+* **(https://github.com/zas/mcp-musicbrainz)**
+* **https://github.com/i-am-bee/beeai-framework**
 
 
 <p align="center">
