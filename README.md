@@ -7,8 +7,6 @@
 
 <br>
 
-[Architecture](#architecture) • [Open Source](#open-source) • [Logic](#logic)
-
 </div>
 
 <br>
