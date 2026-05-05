@@ -20,6 +20,6 @@
 ---
 
 <div align="center">
-  <sub><i>"The future is what is now."</i></sub>
+  <sub><i>"The Future is what is now."</i></sub>
 </div>
 
