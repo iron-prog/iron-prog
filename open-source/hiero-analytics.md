@@ -3,24 +3,13 @@
 **Organization:** Hiero ecosystem / LF Decentralized Trust  
 **Repository:** [hiero-hackers/analytics](https://github.com/hiero-hackers/analytics)
 
-## Summary
+## Merged Pull Requests
 
-Contributed analytics pipeline and dashboard fixes covering SBOM/dependency ingestion, release ingestion, cache behavior, and data freshness.
-
-## Contributions
-
-### SBOM ingestion and coverage tooling
-Implemented dependency/SBOM ingestion work together with a standalone coverage-measurement script.
-
-### Release ingestion
-Contributed to the release-ingestion pipeline used by the analytics system.
-
-### Cache TTL behavior
-Documented and validated the behavior where a cache TTL of zero or less disables expiry, making the configuration behavior explicit.
-
-### Stale-data threshold
-Aligned the `STALE_AFTER` threshold with the pipeline's actual five-day refresh cadence, preventing the dashboard from using a mismatched freshness window.
+1. [#402 — SBOM ingestion + standalone coverage measurement](https://github.com/hiero-hackers/analytics/pull/402) — Added SBOM ingestion, purl parsing, coverage measurement, tests, and real-org dependency coverage analysis.
+2. [#369 — Release ingest](https://github.com/hiero-hackers/analytics/pull/369) — Added GitHub Releases ingestion, caching, release cadence analysis, staleness metrics, visualizations, dashboard KPIs, and tests.
+3. [#354 — Warn/document when cache TTL <= 0 disables expiry](https://github.com/hiero-hackers/analytics/pull/354) — Made non-positive cache TTL semantics explicit with documentation, warnings, and tests.
+4. [#350 — Align STALE_AFTER with 5-day refresh cadence](https://github.com/hiero-hackers/analytics/pull/350) — Corrected stale-data thresholds and added boundary tests.
 
 ## Engineering Themes
 
-Python · data pipelines · SBOM/dependency analysis · release ingestion · caching · data freshness · analytics
+Python · data pipelines · SBOM/dependency analysis · GitHub APIs · release ingestion · caching · data freshness · analytics
